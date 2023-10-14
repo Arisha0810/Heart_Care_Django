@@ -52,7 +52,7 @@ Then go to http://127.0.0.1:8000 in your browser
 
 ## Author
 <blockquote>
-ARISHA RAKHNANGI
+ARISHA RAKHANGI
 Email: arisharakhangi857@gmail.com
 </blockquote>
 
